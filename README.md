@@ -128,7 +128,7 @@ Message
 ### User Table
 - Unique constraint on email.
 - Non-null constraints on required fields.
-###Property Table
+### Property Table
 - Foreign key constraint on host_id.
 - Non-null constraints on essential attributes.
 ### Booking Table
