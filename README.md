@@ -1,11 +1,21 @@
 # alx-project-nexus
+# E-Commerce Backend for project-nexus
+## Real-World Application
+
+The e-commerce backend simulates a real-world development environment, emphasizing scalability, security, and performance. Participants will: - Design and optimize relational database schemas. - Build and document APIs for frontend integration. - Enhance backend performance through query optimization and indexing.
+
+# Overview of the project
+This project focuses on developing a robust backend system to support an e-commerce product catalog. The backend will handle product data management, user authentication, and APIs for filtering, sorting, and pagination, simulating a real-world scenario for backend engineers. It covers a wide range of technologies, software engineering principles, and collaborative practices used in real-world development.
+
+# Project Goals
+
+- CRUD APIs: Build APIs for managing products, categories, and user authentication.
+- Filtering, Sorting, Pagination: Implement robust logic for efficient product discovery.
+- Database Optimization: Design a high-performance database schema to support seamless queries.
+
 ## Project Nexus Documentation
 A documentation hub for my major learnings from the **ProDev Backend Engineering** program.  
 This repository highlights backend engineering concepts, tools, and best practices gained throughout the journey.
-## Overview of the Program
-The ProDev Backend Engineering program is designed to equip learners with the skills to build, deploy, and scale robust backend systems.  
-It covers a wide range of technologies, software engineering principles, and collaborative practices used in real-world development.
-
 # Project Objective
 The objective of this project is to: 
 - Consolidate key learnings from the ProDev Backend Engineering program.
